@@ -3,7 +3,7 @@ layout: post
 title: First Meeting!
 published: true
 ---
-## Jan 30th, 6:15-8:15pm
+## Jan 30th 2017, 6:15-8:15pm
 Location: 15th & Wedgewood, Janet Ayers Academic Center (JAAC) Room 4098, Belmont University, 37212.   
 [Google Maps Link.](https://www.google.com/maps/place/Janet+Ayers+Academic+Center/@36.1353371,-86.79257,15z/data=!4m2!3m1!1s0x0:0x4fad9809c6db3a5c?sa=X&ved=0ahUKEwjMnvW-9tvRAhUKxYMKHWOTDesQ_BIIajAK) 
 Free parking under the building.
