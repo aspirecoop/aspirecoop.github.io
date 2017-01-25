@@ -20,7 +20,7 @@ For this meeting, We're going to hear and/or try out demos from a few people on 
 
 * Lucas Novick's experiments on the [Kemper Profiling Amplifer](https://www.kemper-amps.com/)!
 * [Tony Lassandro](https://github.com/lassandroan)'s sound field viz mobile app: [SoniColor](https://github.com/lassandroan/SoniColor)!
-* Joseph Erichsen's VR acoustics app development (status update & maybe demo).
+* Joseph Erichsen's VR acoustics app development (with demo)!
 * ..and talk about the vision for what this group will become. [@drscotthawley](https://twitter.com/drscotthawley) will provide pizza & drinks.
 
 
