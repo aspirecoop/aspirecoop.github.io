@@ -9,7 +9,8 @@ name: ASPIRE, A Research Co-op
 description: A loose collective of scientists, engineers, artists and developers who collaborate on bringing their innovative audio ideas to life!
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars3.githubusercontent.com/u/25021651?v=3&s=200
+#avatar: https://avatars3.githubusercontent.com/u/25021651?v=3&s=200
+avatar: https://raw.githubusercontent.com/aspirecoop/aspirecoop.github.io/master/aspire_logo_lines.png
 
 #
 # Flags below are optional
