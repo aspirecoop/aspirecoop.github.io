@@ -19,7 +19,7 @@ Launching a "Research Co-op" for members of the Nashville community -- academics
 For this meeting, We're going to hear and/or try out demos from a few people on what they're working on...
 
 * Lucas Novick's experiments on the [Kemper Profiling Amplifer](https://www.kemper-amps.com/)!
-* [Tony Lassandro](https://github.com/lassandroan)'s sound field viz mobile app! (https://github.com/lassandroan/SoniColor, more on that later)
+* [Tony Lassandro](https://github.com/lassandroan)'s sound field viz mobile app: [SoniColor](https://github.com/lassandroan/SoniColor)!
 * Joseph Erichsen's VR acoustics app development (status update & maybe demo).
 * ..and talk about the vision for what this group will become. [@drscotthawley](https://twitter.com/drscotthawley) will provide pizza & drinks.
 
