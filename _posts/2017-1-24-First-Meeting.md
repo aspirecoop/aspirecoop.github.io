@@ -17,10 +17,11 @@ Location: Room 4098, Janet Ayers Academic Center, Belmont University.
 Launching a "Research Co-op" for members of the Nashville community -- academics, entrepreneurs, engineers, musicians and enthusiasts -- to collaborate on innovative projects involving audio, acoustics, engineering, and so on.
 
 For this meeting, We're going to hear and/or try out demos from a few people on what they're working on...
-- Lucas Novick's experiments on the [Kemper Profiling Amplifer](https://www.kemper-amps.com/)!
-- [Tony Lassandro](https://github.com/lassandroan)'s sound field viz mobile app! (https://github.com/lassandroan/SoniColor, more on that later)
-- Joseph Erichsen's VR acoustics app development (status update & maybe demo).
-- ..and talk about the vision for what this group will become. [@drscotthawley](https://twitter.com/drscotthawley) will provide pizza & drinks.
+
+* Lucas Novick's experiments on the [Kemper Profiling Amplifer](https://www.kemper-amps.com/)!
+* [Tony Lassandro](https://github.com/lassandroan)'s sound field viz mobile app! (https://github.com/lassandroan/SoniColor, more on that later)
+* Joseph Erichsen's VR acoustics app development (status update & maybe demo).
+* ..and talk about the vision for what this group will become. [@drscotthawley](https://twitter.com/drscotthawley) will provide pizza & drinks.
 
 
 This will be open to the public, and we'll be inviting members from other meetups & labs to join & advise us!
