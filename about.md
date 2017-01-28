@@ -7,7 +7,9 @@ permalink: /about/
 
 A loose collective of scientists, engineers, artists and developers who collaborate on bringing their innovative audio ideas to life!
 
+
 A short list of some things we like:
+
 - electro-acoustics
 - plugins
 - virtual reality
