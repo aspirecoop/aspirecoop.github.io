@@ -27,9 +27,10 @@ A short list of some things we like:
 - sampling
 - good food
 
-[Facebook Discussion Page](https://www.facebook.com/groups/aspirecoop/)
+[Facebook](https://www.facebook.com/groups/aspirecoop/), 
+[Twitter: @aspirecoop](https://twitter.com/aspirecoop),
+[Slack: @aspirecoop]](https://aspirecoop.slack.com)
 
-[Twitter: @aspirecoop](https://twitter.com/aspirecoop)
 
 
 Groups we like:
