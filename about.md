@@ -32,7 +32,7 @@ A short list of some things we like:
 [Twitter: @aspirecoop](https://twitter.com/aspirecoop)
 
 
-Organizations we like:
+Groups we like:
 
 * [Music City Chapter](https://www.facebook.com/MusicCityASA/) of the [Acoustical Society of America](http://acousticalsociety.org/)
 * [Nashville Music Programmers](https://www.meetup.com/Nashville-Music-Programmers/)
