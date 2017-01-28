@@ -29,7 +29,7 @@ A short list of some things we like:
 
 [Facebook](https://www.facebook.com/groups/aspirecoop/), 
 [Twitter: @aspirecoop](https://twitter.com/aspirecoop),
-[Slack: @aspirecoop]](https://aspirecoop.slack.com)
+[Slack: @aspirecoop](https://aspirecoop.slack.com)
 
 
 
