@@ -28,6 +28,7 @@ A short list of some things we like:
 - good food
 
 [Facebook Discussion Page](https://www.facebook.com/groups/aspirecoop/)
+
 [Twitter: @aspirecoop](https://twitter.com/aspirecoop)
 
 
