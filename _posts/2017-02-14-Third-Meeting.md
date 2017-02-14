@@ -21,6 +21,6 @@ Announcements:
 - Discussions will also take place here on Facebook and also on Slack: aspirecoop.slack.com (comment below with your e-mail address if you want an "invite," then anyone already in the "Slack team" can send you one.)
 - One important group-effort project that would "serve" lots of other projects would be a VST host callable as a library for use in other programs. Let's make this a priority, in addition to the other cool things we've got going on.
 - Other upcoming events that may be of interest:
-- Feb 27: Nashville Music Programmers. Topic: Web Audio. https://www.meetup.com/Nashville-Music-Program…/…/237664579/
-- April 15: Nashville Music Hackathon. Let's go! http://nashvillemusichackathon.com/
-- March 1: Deadline for submissions for speakers for Music City Code, June 1-3). https://www.musiccitycode.com/p/call-for-speakers-4
+- Feb 27: [Nashville Music Programmers. Topic: Web Audio](https://www.meetup.com/Nashville-Music-Program…/…/237664579/) 
+- April 15: [Nashville Music Hackathon](http://nashvillemusichackathon.com/). Let's go! 
+- March 1: [Deadline for submissions](https://www.musiccitycode.com/p/call-for-speakers-4) for speakers for [Music City Code](https://www.musiccitycode.com/), June 1-3. 
