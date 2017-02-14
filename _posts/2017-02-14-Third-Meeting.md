@@ -10,7 +10,7 @@ Key project goals include:
 to do related to audio plugin development & machine learning.
 2. Adding bandpass filters (biquads) to Polar Pattern Plotter and/or Sonicolor
 3. For non-coders: Making acoustical measurements using existing tools (e.g., of Fraunhofer diffraction: box-with-a-hole-in-it)
-4. ??
+4. Other ideas?
 
 ### Remarks from the 2nd Meeting:
 Great discussions last night! We've got a great 'dynamic range' of giftings represented, from "low-level coders" to "big-picture shapers." 
