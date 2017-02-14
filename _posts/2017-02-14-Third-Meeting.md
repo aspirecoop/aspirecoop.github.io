@@ -16,6 +16,7 @@ to do related to audio plugin development & machine learning.
 Great discussions last night! We've got a great 'dynamic range' of giftings represented, from "low-level coders" to "big-picture shapers." 
 
 Announcements:
+
 - Future meetings will be 1st Wednesdays & 3rd Mondays of each month. So next meeting is March 1, and we'll try get into teams and work together on various projects. I've reserved Belmont JAAC 1034 (same room as last night) for all those days....also Artiphon is willing to host us at some point.
 - Discussions will also take place here on Facebook and also on Slack: aspirecoop.slack.com (comment below with your e-mail address if you want an "invite," then anyone already in the "Slack team" can send you one.)
 - One important group-effort project that would "serve" lots of other projects would be a VST host callable as a library for use in other programs. Let's make this a priority, in addition to the other cool things we've got going on.
