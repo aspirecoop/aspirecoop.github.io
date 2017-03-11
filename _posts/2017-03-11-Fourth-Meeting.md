@@ -1,9 +1,7 @@
 
-# "Show and Tell and Pizza" 
+## "Show and Tell and Pizza" 
 
-**Monday March 20, 6:30pm.**  
-
-**Room 1034, Janet Ayers Academic Center, 15th & Wedgewood, Belmont University**
+**Monday March 20, 6:30pm.**  Room 1034, Janet Ayers Academic Center, 15th & Wedgewood, Belmont University**
 
 For this meeting, come in prepared to share a quick (~5 minute) overview of what you've been working on!*  
 
