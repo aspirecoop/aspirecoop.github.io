@@ -1,3 +1,5 @@
+## Work Time + Potluck!
+
 May 3, 2017, 6:30pm, JAAC (15th & Wedgewood) Room 1034, Belmont University
 
 
