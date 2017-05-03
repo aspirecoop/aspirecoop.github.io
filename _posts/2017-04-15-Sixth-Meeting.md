@@ -1,4 +1,4 @@
-Monday August 17, 6:30pm, Room 1034 of Belmont University's Janet Ayers Academic Center (15th & Wedgewood).  Free parking under the building.
+Monday April 17, 6:30pm, Room 1034 of Belmont University's Janet Ayers Academic Center (15th & Wedgewood).  Free parking under the building.
 
 This will be a *joint meeting* with the [Nashville Music Programmers](https://www.meetup.com/Nashville-Music-Programmers/) meetup!
 
