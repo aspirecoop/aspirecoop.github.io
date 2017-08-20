@@ -1,4 +1,4 @@
-Discussion: Bringing Product Idea to Market
+Discussion: Bringing Product Ideas to Market
 
 Aug 28, 2017, 6:30pm, JAAC (15th & Wedgewood) Room 1037, Belmont University
 
