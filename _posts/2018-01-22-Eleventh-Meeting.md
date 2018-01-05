@@ -1,4 +1,4 @@
-
+Training for one app, Designing another
 
 Date/Time: Monday, January 22 at 6:30 PM - 8:30 PM
 
