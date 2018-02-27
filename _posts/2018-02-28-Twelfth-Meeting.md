@@ -2,7 +2,7 @@ Joint Meeting with Nashville Music Programmers
 
 Date/Time: Wednesday, February 28 at 6:30 PM - 8:30 PM
 
-Location: Johnson Center, room 130, Belmont University, 1909 15th Ave. South, Nashville, TN
+Location: Johnson Center, room 119, Belmont University, 1909 15th Ave. South, Nashville, TN
 
 Description: 
 For our next meeting, we will be presenting at the Nashville Music Programmers Meetup, on our collaborative development of the machine learning audio sorting app! 
