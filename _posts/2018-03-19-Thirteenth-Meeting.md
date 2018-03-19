@@ -1,6 +1,7 @@
-Crafting Tactile Interfaces with Makey-Makey Microcontrollers
+POSTPONED: Crafting Tactile Interfaces with Makey-Makey Microcontrollers
 
-March 19, 2018, 6:30pm, JAAC (15th & Wedgewood) Room 1037, Belmont University
+~~March 19, 2018, 6:30pm, JAAC (15th & Wedgewood) Room 1037, Belmont University~~<br>
+*Meeting postponed due to severe weather warning. Will announce new date once it's determined.*
 
 We're going to do a mini-hackathon, spending some time with Makey-Makey microcontrollers, provided by Belmont's Chemistry & Physics Department! Megan Kelley is going to help facilitate and provide some craft items (e.g. conductive thread), and we'll bring some too*, and feel free to bring your own craft items too. No soldering required!
 
