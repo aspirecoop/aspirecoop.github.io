@@ -1,4 +1,4 @@
-POSTPONED: Crafting Tactile Interfaces with Makey-Makey Microcontrollers
+Crafting Tactile Interfaces with Makey-Makey Microcontrollers
 
 March 26, 2018 (formerly March 19), 6:30pm, JAAC (15th & Wedgewood) Room 1037, Belmont University~~<br>
 
