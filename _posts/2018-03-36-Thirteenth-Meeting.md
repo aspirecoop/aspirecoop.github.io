@@ -11,3 +11,4 @@ https://www.instructables.com/howto/Makey%20makey/
 
 Also we'll add some other controls using the [Wekinator](http://www.wekinator.org/) machine learning tool for building interfaces!
 <img src="https://github.com/aspirecoop/aspirecoop.github.io/blob/master/images/aspireposter.jpg">
+
