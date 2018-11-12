@@ -1,4 +1,4 @@
-## Steve Garrett #2
+Steve Garrett #2
 
 Date/Time: Wednesday, November 14, 6:30 PM - 8:30 PM
 
