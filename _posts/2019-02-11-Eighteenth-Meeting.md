@@ -3,7 +3,9 @@
 
 Date/Time: Monday February 11, 6:30 PM - 8:30 PM
 
-Location: Room 1045, Janet Ayers Academic Center (1500 Wedgewood Blvd), Belmont University. 
+Location: Room 1045, Janet Ayers Academic Center (1500 Wedgewood Blvd), Belmont University. Free parking under the building. 
+
+Food & Drinks provided. 
 
 We’ve been talking about doing this for a few months now, and it’s actually going to happen!
 
