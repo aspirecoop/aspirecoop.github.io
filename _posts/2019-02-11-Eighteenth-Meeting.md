@@ -19,10 +19,10 @@ If you want to get started early, check out Wekinator creator [Rebecca Fiebrink]
 
 Video Links:
 
-1. Rebecce Fiebrink's intro: https://www.youtube.com/watch?v=SdT0EwzZTsI&feature=youtu.be
+1. [Rebecca Fiebrink's intro](https://www.youtube.com/watch?v=SdT0EwzZTsI&feature=youtu.be)
 
-2. A demo made with an XBxox 360 controller (and link to code): https://www.youtube.com/watch?v=VZ73RlDlnNQ
+2. [A demo made with an XBxox 360 controller (and link to code)](https://www.youtube.com/watch?v=VZ73RlDlnNQ)
 
-3. A demo made with a facial-recognition app (and link to code):https://www.youtube.com/watch?v=j8S9Cx0xnbs
+3. [A demo made with a facial-recognition app (and link to code)](https://www.youtube.com/watch?v=j8S9Cx0xnbs)
 
-3. A commercial product, Vochlea, that was prototyped using Wekinator: https://www.youtube.com/watch?v=eI6Ww6_ZGk8
+3. [A commercial product, Vochlea, that was prototyped using Wekinator](https://www.youtube.com/watch?v=eI6Ww6_ZGk8)
