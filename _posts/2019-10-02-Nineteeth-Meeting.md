@@ -19,7 +19,7 @@ Food & Drinks provided.
 **The Story:**
 One of the projects bourne out of our group is the idea of a utility for
 producers and composers to re-index their libraries of samples and loops.
-Posed by Ethan Henley as an application by Scott Hawley's audio classifier, 
+Posed by Ethan Henley as an application of Scott Hawley's audio classifier, 
 developed further at HackMT 2018, and since then it's been an official
 project of the [Incubator Lab](https://www.google.com/search?q=hawley+incubator+lab&oq=hawley+incubator+lab&aqs=chrome..69i57.2564j0j7&sourceid=chrome&ie=UTF-8) collaboration betwen Scott and [Art+Logic](http://artandlogic.com), with help from a few friends such as Kyle Baker!
 
