@@ -1,8 +1,7 @@
 ## Workshop: Personalized Music Tagging via Vibrary
 
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/aspirecoop/aspirecoop.github.io/master/images/vibrary_screenshot.png" height=500>
-</p>
+
+  <img  src="https://raw.githubusercontent.com/aspirecoop/aspirecoop.github.io/master/images/vibrary_screenshot.png" height=450>
 
 **Date/Time:** Wednesday October 2, 6:30 PM - 8:30 PM
 
