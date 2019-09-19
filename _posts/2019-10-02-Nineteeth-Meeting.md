@@ -34,30 +34,3 @@ For this workshop, we'll work with the Vibrary client and see what kinds of musi
 
 
 For more info, [read the AES Engineering Brief](http://hedges.belmont.edu/~shawley/Vibrary_AES2019.pdf) about Vibrary.
-
-.
-
-
-
-.
-
-
-
-
-.
-
-
-
-
-
-.
-
-
-.
-
-
-
-
-.
-
-
